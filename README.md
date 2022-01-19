@@ -46,10 +46,10 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 
 <!--START_SECTION:waka-->
 ```text
-Researching   71 hrs 39 mins  ██████████████████████░░░   88.28 % 
-Ruby          6 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-JavaScript    1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Lua           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Python        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Researching/Debugging   69 hrs 18 mins  █████████████████████▓░░░   86.83 % 
+Ruby                    8 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+JavaScript              1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                  22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Lua                     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
