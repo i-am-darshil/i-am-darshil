@@ -45,11 +45,14 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 <!--START_SECTION:waka-->
+
 ```text
-Researching/Debugging   74 hrs 3 mins   ███████████████████████▓░   94.49 % 
-JavaScript              1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Ruby                    1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON                    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Bash                    27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Researching/Debugging   74 hrs 3 mins   ███████████████████████▓░   94.49 %
+JavaScript              1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Ruby                    1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JSON                    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash                    27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+YAML                    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
+
 <!--END_SECTION:waka-->
