@@ -47,12 +47,12 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-Researching/Debugging   35 hrs 37 mins  ████████████████▒░░░░░░░░   65.16 %
-Ruby                    13 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-JavaScript              5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Bash                    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-YAML                    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Cheetah                 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Researching/Debugging   23 hrs 20 mins  █████████████░░░░░░░░░░░░   52.03 %
+Ruby                    13 hrs 24 mins  ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+JavaScript              7 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Bash                    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+HCL                     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+YAML                    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
