@@ -47,8 +47,8 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         10 hrs 10 mins  ██████████████░░░░░░░░░░░   55.68 %
-Other        4 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Ruby                       10 hrs 11 mins  █████████████░░░░░░░░░░░░   52.63 %
+Other                      5 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
 ```
 
 <!--END_SECTION:waka-->
