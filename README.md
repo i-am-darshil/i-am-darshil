@@ -47,11 +47,11 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         13 hrs 8 mins   ███████████████░░░░░░░░░░   59.51 %
-JSON         6 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-YAML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JavaScript   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Other        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Ruby         7 hrs 2 mins    ███████████████▒░░░░░░░░░   61.00 %
+JSON         3 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 %
+YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JavaScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
