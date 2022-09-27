@@ -47,10 +47,7 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   48 mins         ██████████████████░░░░░░░   72.53 %
-Bash         15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
