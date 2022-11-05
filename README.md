@@ -47,12 +47,12 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 9 mins     ███████████████████░░░░░░   76.40 %
-Ruby         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   1 hr 15 mins    ██████████████████▓░░░░░░   75.33 %
+Ruby         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+XML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
