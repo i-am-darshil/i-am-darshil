@@ -47,7 +47,7 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 16 mins    █████████████████░░░░░░░░   67.65 %
+Other        1 hr 16 mins    ███████████████▒░░░░░░░░░   61.87 %
 ```
 
 <!--END_SECTION:waka-->
