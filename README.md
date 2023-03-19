@@ -47,8 +47,8 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```text
-Python   8 mins          ████████████████████████░   95.45 %
-JSON     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Python   47 mins         ████████████████████████▓   99.13 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
