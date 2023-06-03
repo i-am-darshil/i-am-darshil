@@ -46,7 +46,7 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
