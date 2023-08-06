@@ -1,7 +1,5 @@
-### Hey there, I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://www.linkedin.com/in/iamdarshil/">
-  <img alt="Darshil's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Darshil's LinkedIN" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 
 <a href="https://www.udemy.com/user/darshil-shah-103/">
@@ -17,17 +15,30 @@
 
 <img align="right" alt="GIF" src="https://github.com/Darshill9991/Darshill9991/blob/main/code.gif?raw=true" width="400" height="400" />
 
-I am a passionate problem solver, a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am also an tech enthusiast and a curious learner. I learn a lot from the open-source community and would love to collaborate a ton through open-source.
+I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/), a passionate Software Engineer with a love for clean code and open-source projects. Welcome to my GitHub profile! Here's a bit about me:
 
-🚀 I am currently helping [Browserstack](https://www.browserstack.com/) in their misson to be the <b>TESTING INFRASTRUCTURE OF THE INTERNET</b>
+🔧 Tech Stack: JS | Python | Java | NextJS | React | Node | Ruby | SQL | Spark | Docker
 
-🖥 I was a Lead instructor & Course Developer at a stealth organization 
+💼 Professional Journey: 
+- Big Data Engineer at ZS 📊
+- Software Engineer at Browserstack 💻 (App Automate Team)
+- Software Engineer at Amazon 🌐 (Working on Alexa's Log Management Solution)
 
-  
-- 💼 Always curious to learn. Wanna collabrate, do reach, [email](mailto:darshilshah9991@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help !
+🚀 Open-Source Enthusiast: I believe in the power of collaboration and enjoy contributing to various open-source projects. Check out my repositories!
+
+🌱 Always Learning: Technology is constantly evolving, and I love exploring new tools and frameworks to stay at the forefront of innovation.
+
+🎯 Current Focus: Building scalable applications and pushing the boundaries of technology to create solutions that have a positive impact.
+
+📫 Let's Connect: I'm eager to collaborate on exciting projects or just chat about tech. Feel free to drop me a message!
+
+⚡ Fun Fact: When I'm not coding, you'll likely find me exploring hiking trails or experimenting in the kitchen.
+
+Let's create something amazing together! ✨
+
+#SoftwareEngineering #Innovation #OpenSource #Python #Java #Technolog #Amazon #Browserstack #ZS
 
 **languages and tools:**  
 
