@@ -58,11 +58,11 @@ Let's create something amazing together! ✨
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 42 mins    ██████████████████▒░░░░░░   73.79 %
-CSS          25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-Python       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   5 hrs 2 mins    ██████████████████████░░░   87.80 %
+CSS          30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
