@@ -58,11 +58,11 @@ Let's create something amazing together! ✨
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 51 mins   ████████████▒░░░░░░░░░░░░   49.96 %
-TypeScript   2 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.58 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Research     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   4 hrs 28 mins   ██████████████░░░░░░░░░░░   56.56 %
+JavaScript   3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.78 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
