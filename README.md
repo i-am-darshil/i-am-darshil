@@ -24,7 +24,7 @@ I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/), a passionate Softwa
 💼 Professional Journey: 
 - Big Data Engineer at ZS 📊
 - Software Engineer at Browserstack 💻 (App Automate Team)
-- Software Engineer II at Amazon 🌐 (Working on Alexa Observability)
+- Software Engineer II at Amazon 🌐 (Alexa Observability)
 
 🚀 Open-Source Enthusiast: I believe in the power of collaboration and enjoy contributing to various open-source projects. Check out my repositories!
 
