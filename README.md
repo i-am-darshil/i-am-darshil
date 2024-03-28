@@ -34,7 +34,7 @@ I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/), a passionate Softwa
 
 📫 Let's Connect: I'm eager to collaborate on exciting projects or just chat about tech. Feel free to drop me a message!
 
-⚡ Fun Fact: When I'm not coding, you'll likely find me exploring hiking trails or experimenting in the kitchen.
+⚡ Fun Fact: When I'm not coding, you'll likely find me exploring hiking trails or playing sports.
 
 Let's create something amazing together! ✨
 
