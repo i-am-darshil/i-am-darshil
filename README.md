@@ -6,10 +6,6 @@
   <img alt="Darshil's Udemy" width="50px" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" />
 </a>
 
-<a href="https://replit.com/@Trixx">
-  <img alt="Darshil's Replit" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8r92MExhSZwJGpnf6lDoaNBhMMeMlflbyA&usqp=CAU" />
-</a>
-
 
 <br>
 
@@ -18,6 +14,8 @@
 ### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/), a passionate Software Engineer with a love for clean code and open-source projects. Welcome to my GitHub profile! Here's a bit about me:
+
+🔗 Visit my [website](https://portfolio-delta-lovat-11.vercel.app/)
 
 🔧 Tech Stack: JS | Python | Java | NextJS | React | Node | Ruby | SQL | Spark | Docker
 
